@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+th,td {
+	border:2px solid black;
+	min-width:100px;
+	text-align:center;
+}
+
+th {
+	background-color:red;
+}
